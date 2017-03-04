@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+body h3 {
+  font-weight: 300;
+}
+
+body p {
+  font-weight: 100;
+}
+
+#clearRuns {
+  font-weight: 100;
+}
+
+.copyright {
+  font-weight: 100;
+}
